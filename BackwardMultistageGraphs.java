@@ -1,7 +1,5 @@
 import java.util.Arrays;
-/*
-Do not refer this code it's not complete
- */
+
 class BackwardMultistageGraphs
 {
     public static void check_backward(int[][]graph,int vertices)
